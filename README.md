@@ -43,17 +43,6 @@ I am a student Full Stack Developer <img src="https://media.giphy.com/media/WUlp
   
 ---
 
-### :fire: My Stats :
-  
-  [[![GitHub Streak](https://streak-stats.demolab.com?user=issam&theme=solarized-light&border_radius=14.8&locale=fr)](https://git.io/streak-stats)](https://streak-stats.demolab.com?user=issam&theme=solarized-light&border_radius=14.8&locale=fr&type=json)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devops-Issam&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&stroke=FF860076)](https://git.io/streak-stats)
- --- 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devops-Issam)](https://github.com/anuraghazra/github-readme-stats)
-  
----
-
 ### :writing_hand: Blog Posts :
 
   
