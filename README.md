@@ -12,13 +12,13 @@
 ### :man_technologist: About Me :
 I am a student Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Paris.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I study to improve myself more and learn new languages.
+ :zap: In my free time, I study to improve myself more and learn new languages.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Boudhar.Issam-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Boudhar.Issam-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   
   ---
 
