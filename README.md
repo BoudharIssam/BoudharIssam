@@ -40,12 +40,3 @@ I am a student Full Stack Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
-  
----
-
-### :writing_hand: Blog Posts :
-
-  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-  
