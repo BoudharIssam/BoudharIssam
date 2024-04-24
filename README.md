@@ -18,7 +18,7 @@ I am a student Full Stack Developer <img src="https://media.giphy.com/media/WUlp
 
  :zap: In my free time, I study to improve myself more and learn new languages.
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Boudhar.Issam-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Boudhar.Issam-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/boudhar-issam/))
   
   ---
 
